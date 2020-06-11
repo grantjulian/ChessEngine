@@ -1,0 +1,5 @@
+﻿  ChessEngine.cpp
+C:\Users\Grant\source\repos\ChessEngine\ChessEngine\ChessEngine.cpp(41,10): warning C4101: 'move2': unreferenced local variable
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/PROFILE' specification
+Algorithm.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:REF' specification
+  ChessEngine.vcxproj -> C:\Users\Grant\source\repos\ChessEngine\x64\Debug\ChessEngine.exe

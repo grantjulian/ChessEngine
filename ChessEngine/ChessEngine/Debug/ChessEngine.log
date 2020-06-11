@@ -1,0 +1,16 @@
+﻿  ChessEngine.cpp
+  ChessState.cpp
+C:\Users\Grant\source\repos\ChessEngine\ChessEngine\ChessState.cpp(12,32): warning C4305: '=': truncation from '__int64' to 'unsigned long'
+C:\Users\Grant\source\repos\ChessEngine\ChessEngine\ChessState.cpp(12,14): warning C4309: '=': truncation of constant value
+C:\Users\Grant\source\repos\ChessEngine\ChessEngine\ChessState.cpp(13,32): warning C4305: '=': truncation from '__int64' to 'unsigned long'
+C:\Users\Grant\source\repos\ChessEngine\ChessEngine\ChessState.cpp(13,14): warning C4309: '=': truncation of constant value
+C:\Users\Grant\source\repos\ChessEngine\ChessEngine\ChessState.cpp(14,32): warning C4305: '=': truncation from '__int64' to 'unsigned long'
+C:\Users\Grant\source\repos\ChessEngine\ChessEngine\ChessState.cpp(14,14): warning C4309: '=': truncation of constant value
+C:\Users\Grant\source\repos\ChessEngine\ChessEngine\ChessState.cpp(15,32): warning C4305: '=': truncation from 'unsigned __int64' to 'unsigned long'
+C:\Users\Grant\source\repos\ChessEngine\ChessEngine\ChessState.cpp(15,14): warning C4309: '=': truncation of constant value
+C:\Users\Grant\source\repos\ChessEngine\ChessEngine\ChessState.cpp(16,32): warning C4305: '=': truncation from '__int64' to 'unsigned long'
+C:\Users\Grant\source\repos\ChessEngine\ChessEngine\ChessState.cpp(16,14): warning C4309: '=': truncation of constant value
+C:\Users\Grant\source\repos\ChessEngine\ChessEngine\ChessState.cpp(17,32): warning C4305: '=': truncation from '__int64' to 'unsigned long'
+C:\Users\Grant\source\repos\ChessEngine\ChessEngine\ChessState.cpp(17,14): warning C4309: '=': truncation of constant value
+  Generating Code...
+  ChessEngine.vcxproj -> C:\Users\Grant\source\repos\ChessEngine\Debug\ChessEngine.exe
